@@ -1,0 +1,60 @@
+.header{
+    min-height: 70px;
+    background-color: red;
+    color: white;
+    text-align: center;
+
+}
+.cover{
+}
+  
+.wrapper{
+    overflow: hidden;
+}
+.blog{
+    height: 350px;
+    width: 70%;
+    margin: 5px;
+    padding: 5px;
+    border: 2 px solid red;
+    background-color: green;
+    float: left;
+    overflow: scroll;
+    text-align: justify;
+}
+.news{
+    background-color: blue;
+    color: aliceblue;
+    min-height: 40px;
+}
+.content{
+   height:350px;
+    width: 25%;
+     margin: 5px;
+    background-color: yellow;
+    float: right;
+    overflow: scroll;
+    text-align: justify;
+    border: red;
+    
+}
+.image{
+  margin:10px;
+    float: left;
+}
+.table{
+    text-align: center;
+    color: red;
+    width: 600px;
+    height: 250px;
+    margin: 5 auto;
+    background-color: #ffcc00
+}
+
+.fotter{
+    min-height: 40px;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    
+}
